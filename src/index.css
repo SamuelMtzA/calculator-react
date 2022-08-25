@@ -50,6 +50,7 @@ input[type='button']:active{
   align-items: center;
   margin-bottom: 5px;
   flex-wrap: wrap;
+  gap: 5px;
 }
 
 #root{
